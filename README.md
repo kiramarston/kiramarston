@@ -13,4 +13,5 @@ I am a recent [CodeClan](https://codeclan.com/) graduate, having decided to leav
 This will be a scintilating list of deployed projects once I actually deploy them.
 
 - [Project Carpetclan](https://project-carpetclan.herokuapp.com/)
+- [Project Worldly](https://project-worldly.herokuapp.com/)
 
